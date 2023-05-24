@@ -1,4 +1,7 @@
 # Smart Contract Joint Savings Accounts
+## *  This repository is for educational purposes only.
+
+
 This project involves using remix and solidity to create a smart contract joint savings account to deposit and withdraw funds from a virtual environment.
 
 # Structure
@@ -34,3 +37,8 @@ Here are examples of the contract execution:
 - [Transaction #3](Execution_results/4-transaction-3.png)
 - [Withdraw #1](Execution_results/5-withdraw-1.png)
 - [Withdraw #2](Execution_results/6-withdraw-2.png)
+
+# Acknowledgments
+[UC Berkley - Bootcamp](https://courses.bootcampspot.com/courses/2916/assignments/47563?module_item_id=872177)
+
+[Google](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjQ447c3Yz_AhV0MDQIHUORBRsQPAgJ)
